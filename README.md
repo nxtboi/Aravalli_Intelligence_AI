@@ -41,7 +41,7 @@ src/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-org/your-repo.git
+   git clone https://github.com/nxtboi/Aravalli_Intelligence_AI.git
    cd Aravalli_Intelligence_AI-main
    ```
 2. Install dependencies:
