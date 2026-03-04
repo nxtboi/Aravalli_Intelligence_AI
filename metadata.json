@@ -1,0 +1,5 @@
+{
+  "name": "Aravalli Intelligence",
+  "description": "Satellite imagery analysis tool for monitoring environmental changes, deforestation, and illegal construction in the Aravalli hills.",
+  "requestFramePermissions": []
+}
