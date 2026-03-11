@@ -81,5 +81,5 @@ Please follow the existing code style and add tests where appropriate.
 This project is licensed under the [MIT License](LICENSE).
 
 ## 📞 Contact
-vk16122001@gmail.com
+vk16122001@gmail.com, nehapathak9953@gmail.com
 ---
